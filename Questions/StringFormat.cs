@@ -29,7 +29,7 @@ public class Ques4
     }
     
 }
-public record Student
+public  record Student
 {
     public string? Name{get;set;}
     public int Score{get;set;}
